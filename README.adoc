@@ -16,3 +16,4 @@ This repository is used by the `metanorma new` command to create new documents.
 These document types (``doctype``s) are supported in this template repository:
 
 * `rfc`
+Created by Jason Scott Heise
